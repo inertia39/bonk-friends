@@ -1,7 +1,7 @@
 # Bonk Friends
 A mod for [bonk.io](https://bonk.io/) - Notifies user when friends are on/offline
 
-If you have any issues, come talk to me on discord: `int#0039`
+If you have any issues, open a new issue or come talk to me on discord: `int#0039`
 
 ## How to Install
 ### Chrome
