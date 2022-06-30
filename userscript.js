@@ -22,12 +22,6 @@
             return e.textContent
         });
         setTimeout(() => {
-            document.getElementById("classic_mid_friendlist").click();
-        }, 6000);
-        setTimeout(() => {
-            document.getElementById("friends_close").click();
-        }, 7000);
-        setTimeout(() => {
             setInterval(() => {
                 const offlineGet = Array.from(document.getElementById("friends_offline_table").getElementsByClassName("friends_cell_name")).map(e => {
                     return e.textContent
