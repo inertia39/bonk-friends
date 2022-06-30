@@ -1,31 +1,16 @@
 {
 	"manifest_version": 2,
 	"name": "Bonk Friends",
-	"version": "v.1.9",
+	"version": "0.1.8",
 	"author": "Inertia, (inertia_)",
-
-	"description": "Notfies user when friends are on/offline.",
-
-	"description": "",
+	"description": "Notifies user when friend are on/offline.",
 	"permissions": [
 		"webRequest",
 		"webRequestBlocking",
 		"*://bonk.io/*"
 	],
-
-	"background": {
-		"scripts": ["background.js"]
-	},
-
 	"content_scripts": [
 		{
-		  "matches": [
-			"*://bonk.io/gameframe-release.html"
-		  ],
-		  "js": [
-			"userscript.js"
-		  ],
-		  "all_frames": true
 			"matches": [
 				"*://bonk.io/gameframe-release.html"
 			],
