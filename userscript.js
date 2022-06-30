@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bonk Friends
-// @version      0.1.9
+// @version      0.2.0
 // @description  Notifies user when friends are online
 // @author       Inertia `int#0039`
 // @namespace    https://greasyfork.org/en/users/925582
