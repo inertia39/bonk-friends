@@ -8,7 +8,7 @@ If you have any issues, open a new issue or come talk to me on discord: `int#003
 ##### Includes Chrome, Chromium, Edge, and Opera.
 
 #### Extension -
-- go to [releases]() and download the .zip file
+- go to releases and download the .zip file
 
 - go to [extensions](chrome://extensions/)
 
@@ -19,7 +19,7 @@ If you have any issues, open a new issue or come talk to me on discord: `int#003
 - refresh your bonk.io, and enjoy :)
 
 #### Tampermonkey -
-- go to [releases]() and download  the .js file
+- go to releases and download  the .js file
 
 - open the .js file in file explorer/finder
 
